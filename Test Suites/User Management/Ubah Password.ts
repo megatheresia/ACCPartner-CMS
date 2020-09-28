@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Ubah Password</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>aa40c4a4-fffe-45e3-9e16-024fec2baa45</testSuiteGuid>
+   <testCaseLink>
+      <guid>9fc9efd6-eb6e-4251-9ba2-86f976cb7531</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/User Management/Ubah Password</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>451b8ac3-c824-4b9c-a02a-a6b001a6fc72</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/User Management/DB_UbahPassword</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>451b8ac3-c824-4b9c-a02a-a6b001a6fc72</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varPassLama</value>
+         <variableId>fd36ffc9-9a19-47a9-bf89-b8c2079d4393</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>451b8ac3-c824-4b9c-a02a-a6b001a6fc72</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varPassBaru</value>
+         <variableId>f285584b-6c57-48c6-a0bf-f1e724cdc514</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>451b8ac3-c824-4b9c-a02a-a6b001a6fc72</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varBenar</value>
+         <variableId>380ad34b-3f14-493c-9f85-51f48dde441f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>451b8ac3-c824-4b9c-a02a-a6b001a6fc72</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varUsername</value>
+         <variableId>e2a19fe3-759e-4896-beb5-4e1c8fe5a1c0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>451b8ac3-c824-4b9c-a02a-a6b001a6fc72</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varPassword</value>
+         <variableId>f4943099-95c2-4e4d-8f3d-aab783c36bab</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

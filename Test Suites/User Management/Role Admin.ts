@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Role Admin</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>ce715eee-f6df-414c-bf55-22560ba6ba01</testSuiteGuid>
+   <testCaseLink>
+      <guid>a78e97b0-32fc-43f5-8c87-9b41bc1cf097</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/User Management/Role Admin</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>60a32ba8-03da-43c4-920b-2850306e5be7</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/User Management/DB_RoleAdmin</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>60a32ba8-03da-43c4-920b-2850306e5be7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varUsername</value>
+         <variableId>8509547c-13fa-4c03-8268-f61228530a1e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>60a32ba8-03da-43c4-920b-2850306e5be7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varPassword</value>
+         <variableId>1f564668-5cbf-4403-ae21-1db37cb71709</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>60a32ba8-03da-43c4-920b-2850306e5be7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varSearch</value>
+         <variableId>15b5fd83-e8f9-4802-9ae7-2cf02ed6fbfa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>60a32ba8-03da-43c4-920b-2850306e5be7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varNamaAdmin</value>
+         <variableId>d6f9139f-daee-469d-ba46-f715fd4729dd</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>60a32ba8-03da-43c4-920b-2850306e5be7</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varBenar</value>
+         <variableId>0f0927cc-b49a-4b39-9d5e-1cda0fef1ef1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>c059a9a3-d8b6-4235-8a2e-c41c9c2b7076</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Manage Team</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1622d8ae-383c-42a4-87d2-b4d4714e403e</testSuiteGuid>
+   <testCaseLink>
+      <guid>8db87bf8-f2a0-4c00-9d57-c45a4881233d</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Dealer Management/Manage Team</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6ef0d05a-6598-48b2-8547-6c4533495d98</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Dealer Management/DB_ManageTeam</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>6ef0d05a-6598-48b2-8547-6c4533495d98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varUsername</value>
+         <variableId>216f4a76-fa45-4b96-b2b7-b20052b001a3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6ef0d05a-6598-48b2-8547-6c4533495d98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varPassword</value>
+         <variableId>779bef25-b51d-4ac1-a1f5-e5b89c1c59b2</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6ef0d05a-6598-48b2-8547-6c4533495d98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varLOV</value>
+         <variableId>957fe12b-d6c6-46d1-978b-73970e4dbbb3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6ef0d05a-6598-48b2-8547-6c4533495d98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varTeamName</value>
+         <variableId>5d9f7ee0-e342-405f-9e0e-47ba36ef6a35</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6ef0d05a-6598-48b2-8547-6c4533495d98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varSearchTeamName</value>
+         <variableId>b5bda724-3d9b-42b1-8984-b2a16869af02</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6ef0d05a-6598-48b2-8547-6c4533495d98</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varBenar</value>
+         <variableId>76742a78-b590-4b53-a69e-ad7b86012c18</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

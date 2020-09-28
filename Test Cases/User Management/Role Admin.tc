@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Role Admin</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a220a0d8-a0fe-4484-8aaa-fbee50b00b29</testCaseGuid>
+   <variable>
+      <defaultValue>'gilank.rangesti'</defaultValue>
+      <description></description>
+      <id>8509547c-13fa-4c03-8268-f61228530a1e</id>
+      <masked>false</masked>
+      <name>varUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password2'</defaultValue>
+      <description></description>
+      <id>1f564668-5cbf-4403-ae21-1db37cb71709</id>
+      <masked>false</masked>
+      <name>varPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>'Admin'</defaultValue>
+      <description></description>
+      <id>15b5fd83-e8f9-4802-9ae7-2cf02ed6fbfa</id>
+      <masked>false</masked>
+      <name>varSearch</name>
+   </variable>
+   <variable>
+      <defaultValue>'Super Adminn'</defaultValue>
+      <description></description>
+      <id>d6f9139f-daee-469d-ba46-f715fd4729dd</id>
+      <masked>false</masked>
+      <name>varNamaAdmin</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>0f0927cc-b49a-4b39-9d5e-1cda0fef1ef1</id>
+      <masked>false</masked>
+      <name>varBenar</name>
+   </variable>
+   <variable>
+      <defaultValue>'USER MANAGEMENT'</defaultValue>
+      <description></description>
+      <id>c059a9a3-d8b6-4235-8a2e-c41c9c2b7076</id>
+      <masked>false</masked>
+      <name>varUM</name>
+   </variable>
+</TestCaseEntity>

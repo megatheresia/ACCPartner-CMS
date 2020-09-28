@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Master Dealer Reward</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>00888e99-23d5-4ce4-925f-3dbb1ed092e7</testCaseGuid>
+   <variable>
+      <defaultValue>'1'</defaultValue>
+      <description></description>
+      <id>8ea5d5ef-895a-43b0-a190-418667bd0281</id>
+      <masked>false</masked>
+      <name>varFromValue</name>
+   </variable>
+   <variable>
+      <defaultValue>'5'</defaultValue>
+      <description></description>
+      <id>6cdb1315-8661-411c-8123-5680e5c5026d</id>
+      <masked>false</masked>
+      <name>varToValue</name>
+   </variable>
+   <variable>
+      <defaultValue>'Silver'</defaultValue>
+      <description></description>
+      <id>fa07fed3-4619-4093-93cc-645736741d7d</id>
+      <masked>false</masked>
+      <name>varNameReward</name>
+   </variable>
+   <variable>
+      <defaultValue>'2'</defaultValue>
+      <description></description>
+      <id>4a46905f-b751-43a1-8264-0c12cba2431a</id>
+      <masked>false</masked>
+      <name>varToValueEdit</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>87157d93-0cec-40e8-bd29-8a75d67e1aa0</id>
+      <masked>false</masked>
+      <name>varBenar</name>
+   </variable>
+   <variable>
+      <defaultValue>'EMERALD'</defaultValue>
+      <description></description>
+      <id>f0c961ef-f371-46a5-8ce0-0e44a9328f86</id>
+      <masked>false</masked>
+      <name>varSearch</name>
+   </variable>
+   <variable>
+      <defaultValue>'ACTIVE'</defaultValue>
+      <description></description>
+      <id>00b62ef3-4199-441d-9c6b-db3e04fe5d1c</id>
+      <masked>false</masked>
+      <name>varStatusDealer</name>
+   </variable>
+</TestCaseEntity>

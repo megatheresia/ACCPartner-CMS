@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Not Verify</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>48092bf8-a465-48e7-8640-05815a0d03d9</testSuiteGuid>
+   <testCaseLink>
+      <guid>24468753-9988-4d65-8c5f-8d405f9e421c</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Ringkasan Pengajuan/Not Verify</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>bc2c255d-4451-4d74-91e9-cd6f81cf05bd</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Ringkasan Pengajuan/DB_NotVerify</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>bc2c255d-4451-4d74-91e9-cd6f81cf05bd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varUsername</value>
+         <variableId>3c41a041-040c-4a19-8e56-59351cb22dce</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bc2c255d-4451-4d74-91e9-cd6f81cf05bd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varPassword</value>
+         <variableId>e441e8e5-14a0-4771-9ddb-1d13ee92c969</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bc2c255d-4451-4d74-91e9-cd6f81cf05bd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varSearch</value>
+         <variableId>16ab33c3-e3c8-4d82-b6ab-59e0562f317b</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>bc2c255d-4451-4d74-91e9-cd6f81cf05bd</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varBenar</value>
+         <variableId>360eb027-6f24-44c9-8c2d-7ef9758504bb</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

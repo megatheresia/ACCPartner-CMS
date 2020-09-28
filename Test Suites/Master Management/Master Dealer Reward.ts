@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Master Dealer Reward</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>23428436-929b-446f-8f48-61bfa854445e</testSuiteGuid>
+   <testCaseLink>
+      <guid>cf9a9d52-0c81-4f4a-8094-a321e8e05c09</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Master Management/Master Dealer Reward</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>3925f13a-6325-47c1-b919-7565d81c6244</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Master Management/DB_MasterDealerReward</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>3925f13a-6325-47c1-b919-7565d81c6244</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varFromValue</value>
+         <variableId>8ea5d5ef-895a-43b0-a190-418667bd0281</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3925f13a-6325-47c1-b919-7565d81c6244</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varToValue</value>
+         <variableId>6cdb1315-8661-411c-8123-5680e5c5026d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3925f13a-6325-47c1-b919-7565d81c6244</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varNameReward</value>
+         <variableId>fa07fed3-4619-4093-93cc-645736741d7d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3925f13a-6325-47c1-b919-7565d81c6244</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varToValueEdit</value>
+         <variableId>4a46905f-b751-43a1-8264-0c12cba2431a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3925f13a-6325-47c1-b919-7565d81c6244</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varBenar</value>
+         <variableId>87157d93-0cec-40e8-bd29-8a75d67e1aa0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>3925f13a-6325-47c1-b919-7565d81c6244</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varSearch</value>
+         <variableId>f0c961ef-f371-46a5-8ce0-0e44a9328f86</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>00b62ef3-4199-441d-9c6b-db3e04fe5d1c</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

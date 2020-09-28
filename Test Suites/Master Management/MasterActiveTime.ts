@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>MasterActiveTime</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>5a7ebdb7-d906-4285-9e1d-145593851f8f</testSuiteGuid>
+   <testCaseLink>
+      <guid>9138741c-ce73-4e26-8c0a-07c14f5add44</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Master Management/Master Active Time</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>6428c657-4433-4c09-ba76-c9d454878ab8</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Master Management/DB_MasterActiveTime</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>6428c657-4433-4c09-ba76-c9d454878ab8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varJangkaWaktu</value>
+         <variableId>248a0bb7-a7af-4e07-aff0-ab975af40553</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6428c657-4433-4c09-ba76-c9d454878ab8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varSearch</value>
+         <variableId>36eb4f54-e75c-4c81-bfc2-470a7f128520</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>6428c657-4433-4c09-ba76-c9d454878ab8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varBenar</value>
+         <variableId>123a1383-7663-4e39-9002-87f0d142ddee</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

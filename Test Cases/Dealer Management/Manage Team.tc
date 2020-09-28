@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Manage Team</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e6186571-8cd8-475d-99e8-274a5bc53889</testCaseGuid>
+   <variable>
+      <defaultValue>'gilank.rangesti'</defaultValue>
+      <description></description>
+      <id>216f4a76-fa45-4b96-b2b7-b20052b001a3</id>
+      <masked>false</masked>
+      <name>varUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password2'</defaultValue>
+      <description></description>
+      <id>779bef25-b51d-4ac1-a1f5-e5b89c1c59b2</id>
+      <masked>false</masked>
+      <name>varPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>'AI TSO-JKT CILEDUG'</defaultValue>
+      <description></description>
+      <id>957fe12b-d6c6-46d1-978b-73970e4dbbb3</id>
+      <masked>false</masked>
+      <name>varLOV</name>
+   </variable>
+   <variable>
+      <defaultValue>'TEAM SPV JACOBB'</defaultValue>
+      <description></description>
+      <id>5d9f7ee0-e342-405f-9e0e-47ba36ef6a35</id>
+      <masked>false</masked>
+      <name>varTeamName</name>
+   </variable>
+   <variable>
+      <defaultValue>'TEAM SPV JACOBB'</defaultValue>
+      <description></description>
+      <id>b5bda724-3d9b-42b1-8984-b2a16869af02</id>
+      <masked>false</masked>
+      <name>varSearchTeamName</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>76742a78-b590-4b53-a69e-ad7b86012c18</id>
+      <masked>false</masked>
+      <name>varBenar</name>
+   </variable>
+</TestCaseEntity>

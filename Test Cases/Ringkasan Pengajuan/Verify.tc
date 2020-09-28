@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Verify</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>51b2acf4-633c-428d-805d-523e26b12a28</testCaseGuid>
+   <variable>
+      <defaultValue>'gilank.rangesti'</defaultValue>
+      <description></description>
+      <id>b39a706b-0ea1-4347-85ad-27e9a74579ae</id>
+      <masked>false</masked>
+      <name>varUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password2'</defaultValue>
+      <description></description>
+      <id>3fe089b6-9e0e-45d0-bfb6-56192ff52679</id>
+      <masked>false</masked>
+      <name>varPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>'Newkacab02'</defaultValue>
+      <description></description>
+      <id>4baade54-ef5a-497b-81a2-5b81e8830a2e</id>
+      <masked>false</masked>
+      <name>varSearch</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>13afd8f7-2843-4c66-8136-40effad05844</id>
+      <masked>false</masked>
+      <name>varBenar</name>
+   </variable>
+</TestCaseEntity>

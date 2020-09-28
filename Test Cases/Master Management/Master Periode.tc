@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Master Periode</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>26ddded8-d6dd-47fb-ae71-7cba00bb2921</testCaseGuid>
+   <variable>
+      <defaultValue>'201902'</defaultValue>
+      <description></description>
+      <id>7c2b0982-ebd2-4023-adc7-3577d34f69d1</id>
+      <masked>false</masked>
+      <name>varPeriodeMulai</name>
+   </variable>
+   <variable>
+      <defaultValue>'202002'</defaultValue>
+      <description></description>
+      <id>cbf88e9c-57c1-444c-8969-710ac290285d</id>
+      <masked>false</masked>
+      <name>varPeriodeSelesai</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dc97c03e-72d3-451e-a47f-ef8c5251df4e</id>
+      <masked>false</masked>
+      <name>varBenar</name>
+   </variable>
+</TestCaseEntity>
