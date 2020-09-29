@@ -15,6 +15,7 @@ import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
 
 WebUI.openBrowser('')
 
@@ -36,9 +37,11 @@ WebUI.click(findTestObject('Object Repository/Rewards/download template rewards'
 
 WebUI.delay(5)
 
-WebUI.click(findTestObject('Rewards/up file rewards'))
+WebUI.click(findTestObject('Rewards/BtnUpload File Rewards'))
 
-WebUI.uploadFileWithDragAndDrop(varFile)
+//pake custom keyword ini yaaaa...nanti dia akan langsung klik area untuk upload, dan bisa langsung upload filenya
+//coding lengkap buat custom keyword ini, bisa diliat di Keyword>web>uploadfile.groovy
+CustomKeywords.'web.uploadfile.uploadFile'(findTestObject('Rewards/upload file'), 'E:\\Template-Upload-Rewards.xlsx')
 
 WebUI.click(findTestObject('Object Repository/Rewards/button save rewards'))
 
