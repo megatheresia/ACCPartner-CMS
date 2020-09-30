@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Upload Master Dealer</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>8cef2c56-d6f6-4eb3-a9bb-e657aa78ae37</testSuiteGuid>
+   <testCaseLink>
+      <guid>5f0b4492-f0cc-419d-9bf9-653eb8cb3afa</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Dealer Management/Upload Master Dealer</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>872967ec-fff2-4041-9f7e-5b2c52bf9d1c</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Dealer Management/DB_UploadMasterDealer</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>872967ec-fff2-4041-9f7e-5b2c52bf9d1c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varUsername</value>
+         <variableId>c1eab4d7-5010-427b-937d-083f9b0a08a6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>872967ec-fff2-4041-9f7e-5b2c52bf9d1c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varPassword</value>
+         <variableId>bd609b78-29ca-40b3-a8a7-b19ec7c4c305</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>872967ec-fff2-4041-9f7e-5b2c52bf9d1c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varFile</value>
+         <variableId>2cf1757f-50cd-405a-aa78-d7ac8b0371f5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>872967ec-fff2-4041-9f7e-5b2c52bf9d1c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varSearch</value>
+         <variableId>9cf057f4-14e0-4542-910d-e203ff5df761</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>872967ec-fff2-4041-9f7e-5b2c52bf9d1c</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varBenar</value>
+         <variableId>4d3749fa-77df-40fe-adc5-1c17ac2c0ee7</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

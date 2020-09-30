@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Perhitungan Cash Rewards</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>6ae464c0-bd75-47f4-8260-5efaeec2c009</testSuiteGuid>
+   <testCaseLink>
+      <guid>607153fa-5d56-45ed-ad0e-dd1a92d8acdb</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Content Management/Master Content/Perhitungan Cash Rewards</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>1030fefc-c9e3-4466-9fc1-463a2d34c022</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Content Management/Master Content/DB_PerhitunganCashRewards</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>1030fefc-c9e3-4466-9fc1-463a2d34c022</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varUsername</value>
+         <variableId>3049f281-431e-4a23-93ce-12b6dea8fc3d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1030fefc-c9e3-4466-9fc1-463a2d34c022</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varPassword</value>
+         <variableId>d149665e-5935-4310-a4f4-a175d8894efe</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1030fefc-c9e3-4466-9fc1-463a2d34c022</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varTitle</value>
+         <variableId>f589aff4-8943-42b4-8dee-2b51c75355b5</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1030fefc-c9e3-4466-9fc1-463a2d34c022</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varNewTitle</value>
+         <variableId>373f4693-c486-4097-8662-a49af3769f5d</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e8d44673-d2d1-4a61-b72a-64467c975aba</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1030fefc-c9e3-4466-9fc1-463a2d34c022</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varSearch</value>
+         <variableId>8b133715-d3fa-47b1-806e-e76c4f06efc1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1030fefc-c9e3-4466-9fc1-463a2d34c022</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varBenar</value>
+         <variableId>668cef4a-8d92-4f52-a0f7-6c2d6b958c84</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>1030fefc-c9e3-4466-9fc1-463a2d34c022</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varFile</value>
+         <variableId>23f83e41-67e4-4193-9dba-596b5beda98f</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

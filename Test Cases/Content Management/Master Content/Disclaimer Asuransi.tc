@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Disclaimer Asuransi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>8988864d-e8ee-4e88-8555-ea60f4cac82c</testCaseGuid>
+   <variable>
+      <defaultValue>'gilank.rangesti'</defaultValue>
+      <description></description>
+      <id>d3b3b030-f398-40d4-8c69-c8c2242a77e7</id>
+      <masked>false</masked>
+      <name>varUsername</name>
+   </variable>
+   <variable>
+      <defaultValue>'Password2'</defaultValue>
+      <description></description>
+      <id>7886fe6d-98d9-4cf4-ab70-5e3591913ab3</id>
+      <masked>false</masked>
+      <name>varPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>'Asuransitest'</defaultValue>
+      <description></description>
+      <id>0cdc9813-d4ef-4447-86a8-1ad7532fa0f1</id>
+      <masked>false</masked>
+      <name>varTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>'Tidak ada'</defaultValue>
+      <description></description>
+      <id>0584af7f-9dd1-4391-8dcd-6ed631276dfa</id>
+      <masked>false</masked>
+      <name>varDeskripsi</name>
+   </variable>
+   <variable>
+      <defaultValue>'ACTIVE'</defaultValue>
+      <description></description>
+      <id>b2562deb-5d4f-454f-a31e-8eb695f1be43</id>
+      <masked>false</masked>
+      <name>varStatus</name>
+   </variable>
+   <variable>
+      <defaultValue>'AsuransiTest'</defaultValue>
+      <description></description>
+      <id>97de5255-2d74-45e3-9c0f-54170479a78e</id>
+      <masked>false</masked>
+      <name>varSearch</name>
+   </variable>
+   <variable>
+      <defaultValue>'Asuransitestedit'</defaultValue>
+      <description></description>
+      <id>26fc6b6d-2a33-4627-87a5-9cdc89c954da</id>
+      <masked>false</masked>
+      <name>varNewTitle</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>38b74db8-403a-4d46-aa43-0df6668e3152</id>
+      <masked>false</masked>
+      <name>varBenar</name>
+   </variable>
+</TestCaseEntity>

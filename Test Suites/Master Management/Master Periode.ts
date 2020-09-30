@@ -12,36 +12,60 @@
    <rerunImmediately>false</rerunImmediately>
    <testSuiteGuid>7717855c-3cb6-49d3-a71d-084276c3ac01</testSuiteGuid>
    <testCaseLink>
-      <guid>1883a60c-a022-44df-a34c-67436475f6c5</guid>
+      <guid>f7ff7922-bd28-460d-addd-9d051fd45f03</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/Master Management/Master Periode</testCaseId>
       <testDataLink>
          <combinationType>ONE</combinationType>
-         <id>3dc62b13-b3eb-4262-8cd6-0cdc6db198fd</id>
+         <id>194ed76f-ca9e-427d-ba39-b778defe0a27</id>
          <iterationEntity>
             <iterationType>ALL</iterationType>
             <value></value>
          </iterationEntity>
-         <testDataId>Data Files/DB_MasterPeriode</testDataId>
+         <testDataId>Data Files/Master Management/DB_MasterPeriode</testDataId>
       </testDataLink>
       <variableLink>
-         <testDataLinkId>3dc62b13-b3eb-4262-8cd6-0cdc6db198fd</testDataLinkId>
+         <testDataLinkId>194ed76f-ca9e-427d-ba39-b778defe0a27</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>varPeriodeMulai</value>
-         <variableId>7c2b0982-ebd2-4023-adc7-3577d34f69d1</variableId>
+         <value>varUsername</value>
+         <variableId>932e63bd-92ef-4ed4-9231-2eab508ea5e4</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>3dc62b13-b3eb-4262-8cd6-0cdc6db198fd</testDataLinkId>
+         <testDataLinkId>194ed76f-ca9e-427d-ba39-b778defe0a27</testDataLinkId>
          <type>DATA_COLUMN</type>
-         <value>varPeriodeSelesai</value>
-         <variableId>cbf88e9c-57c1-444c-8969-710ac290285d</variableId>
+         <value>varPassword</value>
+         <variableId>20584510-012f-4341-b41a-c5852a2b2f81</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId>3dc62b13-b3eb-4262-8cd6-0cdc6db198fd</testDataLinkId>
+         <testDataLinkId>194ed76f-ca9e-427d-ba39-b778defe0a27</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varMulai</value>
+         <variableId>82c5df89-d7a1-49fa-b1e3-55e3f7af7beb</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>194ed76f-ca9e-427d-ba39-b778defe0a27</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varSelesai</value>
+         <variableId>832183ce-99ac-4a35-8270-6fef6705b5f6</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>194ed76f-ca9e-427d-ba39-b778defe0a27</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varSearch</value>
+         <variableId>099e929f-fa83-4b7c-b9a9-ae877ca1d98e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>194ed76f-ca9e-427d-ba39-b778defe0a27</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varUbahSelesai</value>
+         <variableId>e106de03-2db4-4fd5-81f4-0ea7785bed64</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>194ed76f-ca9e-427d-ba39-b778defe0a27</testDataLinkId>
          <type>DATA_COLUMN</type>
          <value>varBenar</value>
-         <variableId>dc97c03e-72d3-451e-a47f-ef8c5251df4e</variableId>
+         <variableId>d375bd21-c4e7-4594-844b-9342bff3f2b8</variableId>
       </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

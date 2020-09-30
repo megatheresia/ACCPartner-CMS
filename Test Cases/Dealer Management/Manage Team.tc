@@ -47,4 +47,11 @@
       <masked>false</masked>
       <name>varBenar</name>
    </variable>
+   <variable>
+      <defaultValue>'Manage Team\r\n'</defaultValue>
+      <description></description>
+      <id>e58e5cd1-7981-44ac-90e8-19f05d712881</id>
+      <masked>false</masked>
+      <name>varDD</name>
+   </variable>
 </TestCaseEntity>

@@ -38,9 +38,13 @@ WebUI.delay(5)
 
 WebUI.click(findTestObject('Rewards/up file rewards'))
 
-WebUI.uploadFileWithDragAndDrop(varFile)
+CustomKeywords.'web.uploadfile.uploadFile'(findTestObject('Rewards/upload file rewards'), varFile)
+
+WebUI.delay(5)
 
 WebUI.click(findTestObject('Object Repository/Rewards/button save rewards'))
+
+WebUI.delay(4)
 
 WebUI.click(findTestObject('Object Repository/Rewards/button detail rewards'))
 
@@ -53,8 +57,8 @@ WebUI.setText(findTestObject('Object Repository/Rewards/input search rewards'), 
 WebUI.click(findTestObject('Object Repository/Rewards/button search rewards'))
 
 if (varBenar == 'Y') {
-    WebUI.verifyElementNotVisible(findTestObject('Rewards/ID 87'))
+    WebUI.verifyElementNotVisible(findTestObject('Rewards/ID 94'))
 } else {
-    WebUI.verifyElementNotVisible(findTestObject('Rewards/ID 87'))
+    WebUI.verifyElementNotVisible(findTestObject('Rewards/ID 94'))
 }
 

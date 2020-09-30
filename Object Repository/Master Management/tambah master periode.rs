@@ -3,15 +3,15 @@
    <description></description>
    <name>tambah master periode</name>
    <tag></tag>
-   <elementGuidId>120ba539-b6a4-4aa0-89f6-d3a9745e94c0</elementGuidId>
+   <elementGuidId>2d12e38e-d406-46c1-bf75-96ed6c36e583</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//a[contains(text(),'Tambah Master Periode')]</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>li.nav-item > a</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[contains(text(),'Tambah Master Periode')]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -42,7 +42,7 @@
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>/html[@class=&quot;js no-touch csstransforms3d csstransitions&quot;]/body[@class=&quot;fixed-header menu-pin menu-behind  windows desktop pace-done&quot;]/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-content-wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid container-fixed-lg p-t-10&quot;]/nav[@class=&quot;navbar navbar-default bg-transparent sm-padding-10 full-width p-t-0 p-b-0 m-b-0&quot;]/div[@class=&quot;container-fluid full-width&quot;]/div[@class=&quot;collapse navbar-collapse&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4&quot;]/ul[@class=&quot;navbar-nav d-flex flex-row&quot;]/li[@class=&quot;nav-item&quot;]/a[1]</value>
+      <value>/html[@class=&quot;js no-touch csstransforms3d csstransitions&quot;]/body[@class=&quot;fixed-header menu-behind windows desktop pace-done menu-unpinned&quot;]/div[@class=&quot;page-container&quot;]/div[@class=&quot;page-content-wrapper&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-fluid container-fixed-lg p-t-10&quot;]/nav[@class=&quot;navbar navbar-default bg-transparent sm-padding-10 full-width p-t-0 p-b-0 m-b-0&quot;]/div[@class=&quot;container-fluid full-width&quot;]/div[@class=&quot;collapse navbar-collapse&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-4&quot;]/ul[@class=&quot;navbar-nav d-flex flex-row&quot;]/li[@class=&quot;nav-item&quot;]/a[1]</value>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>

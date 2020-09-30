@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Disclaimer Simulasi Credit</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>1e1d576e-cfac-4972-8738-e62414774b40</testSuiteGuid>
+   <testCaseLink>
+      <guid>fc3517cd-8451-4813-accd-27889a0ad6df</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Content Management/Master Content/Disclaimer Simulasi Kredit</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>24e0ca1b-55cf-4c8e-bbc2-491b11de65d8</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Content Management/Master Content/DB_DisclaimerSimulasiCredit</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>24e0ca1b-55cf-4c8e-bbc2-491b11de65d8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varUsername</value>
+         <variableId>b95076a0-6511-49d6-bf9c-62bba144014a</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>24e0ca1b-55cf-4c8e-bbc2-491b11de65d8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varPassword</value>
+         <variableId>441960f3-533b-45b8-beb4-6a35e07cd3e9</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>24e0ca1b-55cf-4c8e-bbc2-491b11de65d8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varTitle</value>
+         <variableId>b7bb0d06-b6fc-48ca-a32f-00f748fbbca7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>24e0ca1b-55cf-4c8e-bbc2-491b11de65d8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varDeskripsi</value>
+         <variableId>07eb73ab-0b5a-4ddd-b51f-b111741e243f</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>24e0ca1b-55cf-4c8e-bbc2-491b11de65d8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varStatus</value>
+         <variableId>6b50af6a-aa50-4462-b98a-5b332402a3a0</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>24e0ca1b-55cf-4c8e-bbc2-491b11de65d8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varSearch</value>
+         <variableId>e2104ac0-22b8-4b8f-8bc6-8f519f0c6494</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>24e0ca1b-55cf-4c8e-bbc2-491b11de65d8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varTitle2</value>
+         <variableId>df4f8fc4-68b5-4d36-a51a-3a6e23b568e4</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>24e0ca1b-55cf-4c8e-bbc2-491b11de65d8</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varBenar</value>
+         <variableId>c11e28a9-7da8-4ddc-9b72-72d412c705dc</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

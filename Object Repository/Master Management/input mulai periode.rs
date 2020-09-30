@@ -3,15 +3,15 @@
    <description></description>
    <name>input mulai periode</name>
    <tag></tag>
-   <elementGuidId>d966e70a-e57d-4337-a946-8923853a0117</elementGuidId>
+   <elementGuidId>9b77999a-a055-46b9-a55e-0696a641d9b8</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@name='periode_start']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>input[name=&quot;periode_start&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='periode_start']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

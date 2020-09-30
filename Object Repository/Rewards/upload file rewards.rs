@@ -10,11 +10,19 @@
          <value>//div[@id='upload-excel-file-rewards']</value>
       </entry>
       <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = '
+    Drop files here to upload
+' or . = '
+    Drop files here to upload
+')]</value>
+      </entry>
+      <entry>
          <key>CSS</key>
          <value>#upload-excel-file-rewards</value>
       </entry>
    </selectorCollection>
-   <selectorMethod>XPATH</selectorMethod>
+   <selectorMethod>BASIC</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -24,7 +32,7 @@
       <value>div</value>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>

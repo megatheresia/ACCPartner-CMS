@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestSuiteEntity>
+   <description></description>
+   <name>Disclaimer Asuransi</name>
+   <tag></tag>
+   <isRerun>false</isRerun>
+   <mailRecipient></mailRecipient>
+   <numberOfRerun>0</numberOfRerun>
+   <pageLoadTimeout>30</pageLoadTimeout>
+   <pageLoadTimeoutDefault>true</pageLoadTimeoutDefault>
+   <rerunFailedTestCasesOnly>false</rerunFailedTestCasesOnly>
+   <rerunImmediately>false</rerunImmediately>
+   <testSuiteGuid>2257b268-a643-4de0-a161-b022e8336517</testSuiteGuid>
+   <testCaseLink>
+      <guid>ad382901-905a-4298-97eb-9bc96ca568ce</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/Content Management/Master Content/Disclaimer Asuransi</testCaseId>
+      <testDataLink>
+         <combinationType>ONE</combinationType>
+         <id>ee0f38b0-3f17-4b34-aa62-f1973ef30fd4</id>
+         <iterationEntity>
+            <iterationType>ALL</iterationType>
+            <value></value>
+         </iterationEntity>
+         <testDataId>Data Files/Content Management/Master Content/DB_DisclaimerAsuransi</testDataId>
+      </testDataLink>
+      <variableLink>
+         <testDataLinkId>ee0f38b0-3f17-4b34-aa62-f1973ef30fd4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varUsername</value>
+         <variableId>d3b3b030-f398-40d4-8c69-c8c2242a77e7</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ee0f38b0-3f17-4b34-aa62-f1973ef30fd4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varPassword</value>
+         <variableId>7886fe6d-98d9-4cf4-ab70-5e3591913ab3</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ee0f38b0-3f17-4b34-aa62-f1973ef30fd4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varTitle</value>
+         <variableId>0cdc9813-d4ef-4447-86a8-1ad7532fa0f1</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ee0f38b0-3f17-4b34-aa62-f1973ef30fd4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varDeskripsi</value>
+         <variableId>0584af7f-9dd1-4391-8dcd-6ed631276dfa</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>b2562deb-5d4f-454f-a31e-8eb695f1be43</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ee0f38b0-3f17-4b34-aa62-f1973ef30fd4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varSearch</value>
+         <variableId>97de5255-2d74-45e3-9c0f-54170479a78e</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ee0f38b0-3f17-4b34-aa62-f1973ef30fd4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varNewTitle</value>
+         <variableId>26fc6b6d-2a33-4627-87a5-9cdc89c954da</variableId>
+      </variableLink>
+      <variableLink>
+         <testDataLinkId>ee0f38b0-3f17-4b34-aa62-f1973ef30fd4</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varBenar</value>
+         <variableId>38b74db8-403a-4d46-aa43-0df6668e3152</variableId>
+      </variableLink>
+   </testCaseLink>
+</TestSuiteEntity>

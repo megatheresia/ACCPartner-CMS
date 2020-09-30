@@ -61,5 +61,11 @@
          <value>varBenar</value>
          <variableId>76742a78-b590-4b53-a69e-ad7b86012c18</variableId>
       </variableLink>
+      <variableLink>
+         <testDataLinkId></testDataLinkId>
+         <type>DEFAULT</type>
+         <value></value>
+         <variableId>e58e5cd1-7981-44ac-90e8-19f05d712881</variableId>
+      </variableLink>
    </testCaseLink>
 </TestSuiteEntity>

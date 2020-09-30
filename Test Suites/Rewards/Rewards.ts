@@ -26,33 +26,33 @@
          <testDataId>Data Files/Rewards/DB_Rewards</testDataId>
       </testDataLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>23e7b592-c63e-40ce-846a-35122c3eb475</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varUsername</value>
          <variableId>04a51732-c75c-4487-9cd8-b274a3a25715</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>23e7b592-c63e-40ce-846a-35122c3eb475</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varPassword</value>
          <variableId>136e8fd2-bd80-4908-9973-4c28f3d6fd22</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>23e7b592-c63e-40ce-846a-35122c3eb475</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varSearch</value>
          <variableId>9dec3591-cdbe-4cdf-a70e-8f62eb497f94</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>23e7b592-c63e-40ce-846a-35122c3eb475</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varBenar</value>
          <variableId>eedf2178-08cc-4ee5-86c8-ed529805d8f3</variableId>
       </variableLink>
       <variableLink>
-         <testDataLinkId></testDataLinkId>
-         <type>DEFAULT</type>
-         <value></value>
+         <testDataLinkId>23e7b592-c63e-40ce-846a-35122c3eb475</testDataLinkId>
+         <type>DATA_COLUMN</type>
+         <value>varFile</value>
          <variableId>b5ad28c8-842b-4e5f-ad1d-872054d3eefb</variableId>
       </variableLink>
    </testCaseLink>

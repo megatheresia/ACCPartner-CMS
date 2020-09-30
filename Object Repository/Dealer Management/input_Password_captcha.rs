@@ -3,15 +3,15 @@
    <description></description>
    <name>input_Password_captcha</name>
    <tag></tag>
-   <elementGuidId>4fdbc262-a01f-41f0-a412-7be241d72ed4</elementGuidId>
+   <elementGuidId>4be73846-223c-4aba-818b-3fe7bd2521d8</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>#i-captcha-val</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//input[@id='i-captcha-val']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#i-captcha-val</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

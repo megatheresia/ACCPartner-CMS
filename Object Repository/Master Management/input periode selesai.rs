@@ -3,15 +3,15 @@
    <description></description>
    <name>input periode selesai</name>
    <tag></tag>
-   <elementGuidId>969a8a14-1146-467d-bcf8-b095dc82035f</elementGuidId>
+   <elementGuidId>d508d8dd-0d62-4715-90b5-28c7fd16b7f6</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>XPATH</key>
-         <value>//input[@name='periode_end']</value>
-      </entry>
       <entry>
          <key>CSS</key>
          <value>input[name=&quot;periode_end&quot;]</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@name='periode_end']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

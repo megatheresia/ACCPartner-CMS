@@ -4,25 +4,53 @@
    <name>Master Periode</name>
    <tag></tag>
    <comment></comment>
-   <testCaseGuid>26ddded8-d6dd-47fb-ae71-7cba00bb2921</testCaseGuid>
+   <testCaseGuid>bf6a2987-8ecd-466a-98a6-0a414aa2bbce</testCaseGuid>
    <variable>
-      <defaultValue>'201902'</defaultValue>
+      <defaultValue>'gilank.rangesti'</defaultValue>
       <description></description>
-      <id>7c2b0982-ebd2-4023-adc7-3577d34f69d1</id>
+      <id>932e63bd-92ef-4ed4-9231-2eab508ea5e4</id>
       <masked>false</masked>
-      <name>varPeriodeMulai</name>
+      <name>varUsername</name>
    </variable>
    <variable>
-      <defaultValue>'202002'</defaultValue>
+      <defaultValue>'Password2'</defaultValue>
       <description></description>
-      <id>cbf88e9c-57c1-444c-8969-710ac290285d</id>
+      <id>20584510-012f-4341-b41a-c5852a2b2f81</id>
       <masked>false</masked>
-      <name>varPeriodeSelesai</name>
+      <name>varPassword</name>
+   </variable>
+   <variable>
+      <defaultValue>'202009'</defaultValue>
+      <description></description>
+      <id>82c5df89-d7a1-49fa-b1e3-55e3f7af7beb</id>
+      <masked>false</masked>
+      <name>varMulai</name>
+   </variable>
+   <variable>
+      <defaultValue>'202109'</defaultValue>
+      <description></description>
+      <id>832183ce-99ac-4a35-8270-6fef6705b5f6</id>
+      <masked>false</masked>
+      <name>varSelesai</name>
+   </variable>
+   <variable>
+      <defaultValue>'202009'</defaultValue>
+      <description></description>
+      <id>099e929f-fa83-4b7c-b9a9-ae877ca1d98e</id>
+      <masked>false</masked>
+      <name>varSearch</name>
+   </variable>
+   <variable>
+      <defaultValue>'202110'</defaultValue>
+      <description></description>
+      <id>e106de03-2db4-4fd5-81f4-0ea7785bed64</id>
+      <masked>false</masked>
+      <name>varUbahSelesai</name>
    </variable>
    <variable>
       <defaultValue>''</defaultValue>
       <description></description>
-      <id>dc97c03e-72d3-451e-a47f-ef8c5251df4e</id>
+      <id>d375bd21-c4e7-4594-844b-9342bff3f2b8</id>
       <masked>false</masked>
       <name>varBenar</name>
    </variable>

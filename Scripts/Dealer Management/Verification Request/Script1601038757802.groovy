@@ -32,7 +32,7 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Dealer Management/dealer management'))
 
-WebUI.click(findTestObject('Object Repository/Dealer Management/DD verification request'))
+WebUI.click(findTestObject('Dealer Management/a_Verification Request'))
 
 WebUI.setText(findTestObject('Object Repository/Dealer Management/input search verification'), varSearchVerification)
 
@@ -50,7 +50,7 @@ WebUI.setText(findTestObject('Object Repository/Dealer Management/input no handp
 
 WebUI.click(findTestObject('Dealer Management/klik jabatan'))
 
-WebUI.click(findTestObject('Dealer Management/LOV jabatan', [('text') : varJabatan]))
+WebUI.click(findTestObject('Dealer Management/LOV jabatan ver', [('text') : varJabatan]))
 
 WebUI.setText(findTestObject('Object Repository/Dealer Management/input nama ajalan salesman'), varNamaJalan)
 
@@ -68,15 +68,17 @@ WebUI.mouseOver(findTestObject('Dealer Management/button_VERIFY', [('text') : va
 
 WebUI.click(findTestObject('Dealer Management/button_VERIFY', [('text') : varVerify]))
 
-WebUI.delay(10)
-
 if (varBenar == 'Y') {
+    WebUI.mouseOver(findTestObject('Dealer Management/button_VERIFY'))
+
     WebUI.verifyElementNotVisible(findTestObject('Dealer Management/input kode salesman'))
+
+    WebUI.delay(3)
 } else {
-    WebUI.delay(6)
+    WebUI.mouseOver(findTestObject('Dealer Management/button_VERIFY'))
 
-    WebUI.verifyElementVisible(findTestObject('Dealer Management/warning phone num failed'))
+    WebUI.verifyElementVisible(findTestObject('Dealer Management/warning panjang karakter kode salesman harus lebih dari 3 dan kurang dari 191 karakter'))
 
-    WebUI.click(findTestObject('Dealer Management/button ok verf req'))
+    WebUI.delay(3)
 }
 

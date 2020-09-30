@@ -3,22 +3,18 @@
    <description></description>
    <name>button_Sign in</name>
    <tag></tag>
-   <elementGuidId>a20a72fb-3a46-4310-8c39-8c8e81123d80</elementGuidId>
+   <elementGuidId>dd10f8b3-19e8-406c-a70a-17db74e85c7a</elementGuidId>
    <selectorCollection>
-      <entry>
-         <key>CSS</key>
-         <value>button.btn.btn-primary.btn-cons.m-t-10</value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'submit' and (text() = 'Sign in' or . = 'Sign in')]</value>
-      </entry>
       <entry>
          <key>XPATH</key>
          <value>//button[@type='submit']</value>
       </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.btn.btn-primary.btn-cons.m-t-10</value>
+      </entry>
    </selectorCollection>
-   <selectorMethod>BASIC</selectorMethod>
+   <selectorMethod>XPATH</selectorMethod>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>

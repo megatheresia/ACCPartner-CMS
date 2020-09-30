@@ -6,12 +6,12 @@
    <elementGuidId>1c9c95b8-d05c-42d4-9868-35188cf8290e</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCPARTNER'])[3]/following::span[1]</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>div.content > nav.page-sidebar > div.sidebar-menu > div.scroll-wrapper.menu-items > ul.menu-items.scroll-content > li > a > span.title</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ACCPARTNER'])[3]/following::span[1]</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>

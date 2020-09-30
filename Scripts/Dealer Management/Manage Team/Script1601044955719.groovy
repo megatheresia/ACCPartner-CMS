@@ -32,29 +32,27 @@ WebUI.maximizeWindow()
 
 WebUI.click(findTestObject('Dealer Management/dealer management'))
 
-WebUI.verifyElementVisible(findTestObject('Dealer Management/DD man team'), FailureHandling.STOP_ON_FAILURE)
-
-WebUI.click(findTestObject('Dealer Management/DD man team'))
+WebUI.click(findTestObject('Dealer Management/a_Manage Team'))
 
 WebUI.click(findTestObject('Dealer Management/klik dealer manage team'))
 
 WebUI.click(findTestObject('Dealer Management/LOV dealer manage team AI TSO-JKT CILEDUG', [('text') : varLOV]))
 
-WebUI.click(findTestObject('Object Repository/detail team management'))
+WebUI.click(findTestObject('Dealer Management/detail team management'))
 
-WebUI.setText(findTestObject('Object Repository/input team name'), varTeamName)
+WebUI.setText(findTestObject('Dealer Management/input team name'), varTeamName)
 
-WebUI.click(findTestObject('Object Repository/button save tim'))
+WebUI.click(findTestObject('Dealer Management/button save tim'))
 
-WebUI.click(findTestObject('Object Repository/button ok team'))
+WebUI.click(findTestObject('Dealer Management/button ok team'))
 
 WebUI.click(findTestObject('Dealer Management/klik dealer manage team'))
 
 WebUI.click(findTestObject('Dealer Management/LOV dealer manage team AI TSO-JKT CILEDUG'))
 
-WebUI.setText(findTestObject('Object Repository/input search data team'), varSearchTeamName)
+WebUI.setText(findTestObject('Dealer Management/input search data team'), varSearchTeamName)
 
-WebUI.click(findTestObject('Object Repository/button search data team'))
+WebUI.click(findTestObject('Dealer Management/button search data team'))
 
 if (varBenar == 'Y') {
     WebUI.verifyElementVisible(findTestObject('Dealer Management/detail team management'))
